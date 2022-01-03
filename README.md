@@ -1,3 +1,20 @@
+## Meu Primeiro Projeto ReactJs em 2022
+
+---
+
+### Aplicação Web, prática de Estudo
+
+    Base da aula na Plataforma Digital Innovation One
+    Reactjs - Trabalhando com Componetes em React 
+
+    Detalhes do Projeto e Estrutura de Desenvolvimento 
+
+    BootsTrap - https://getbootstrap.com/
+    Nodejs - v.14.18.2
+    S.O - Ubutun 18.04 LTS
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
