@@ -1,6 +1,11 @@
 ## Meu Primeiro Projeto ReactJs em 2022
 
----
+#
+## Tela Inicial
+#
+<img src="img/pagina.png" alt="Tela Inicial" height="300px"/>
+
+#
 
 ### Aplicação Web, prática de Estudo
 
